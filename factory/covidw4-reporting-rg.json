@@ -1,0 +1,9 @@
+{
+	"name": "covidw4-reporting-rg",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e445d322-70f3-431d-8931-d4a032a4d973",
+		"tenantId": "bd3be5ea-0709-4c2d-befa-574448ddfa46"
+	}
+}
